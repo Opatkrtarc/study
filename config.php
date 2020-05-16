@@ -1,6 +1,7 @@
 <?php
 $cfg['site']='sssss';
-$cfg['db']['host']='127.0.0.1';
-$cfg['db']['user']='test';
-$cfg['db']['password']='123456';
+$cfg['db']['host']='localhost';
+$cfg['db']['user']='devel';
+$cfg['db']['user']='123456';
+
 
